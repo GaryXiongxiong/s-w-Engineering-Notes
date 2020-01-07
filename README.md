@@ -1,2 +1,2 @@
 # Software Engineering Notes
-See Wiki
+See [Wiki](https://github.com/GaryXiongxiong/s-w-Engineering-Notes/wiki)
